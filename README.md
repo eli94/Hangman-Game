@@ -1,2 +1,2 @@
 # python-practice
-projects I do for practice my python skills
+projects I do to practice my python skills
